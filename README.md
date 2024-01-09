@@ -1,6 +1,6 @@
 # Create A Responsive Footer Section in HTML and CSS
 
-
+![Create-A-Responsive-Footer-in-HTML-and-CSS-Only](https://github.com/whowalkingupme/Responsive-Footer-HTML-and-CSS/assets/46256884/6b1de88b-9a1c-4fba-8351-2220674b0ef4)
 
 You’ve probably seen footers on almost every website you’ve visited. The footer is a crucial section of a website that appears at the bottom of every page. It usually contains links to important pages and copyright information.
 
